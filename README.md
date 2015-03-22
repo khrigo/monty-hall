@@ -15,7 +15,7 @@ git clone https://github.com/khrigo/monty-hall.git
 ### Initializing class
 
 ```
-require_once 'MontyHall.php';
+require_once 'class/MontyHall.php';
 ```
 
 ### Use the Monty Hall Simulation
