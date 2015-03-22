@@ -47,12 +47,6 @@ class MontyHall {
     {
         do      $result = $this->randomDoor();
         while   ($result == $number1 or $result == $number2);
-        return  $result;
     }
 
 }
-
-
-// Use the MontyHall Simulation
-$montyhall = new MontyHall();
-$montyhall->setDoors(3)->play(10000)->getResults();
