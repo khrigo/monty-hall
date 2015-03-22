@@ -1,1 +1,1 @@
-# montyhall.github.io
+# Monty Hall problem
