@@ -18,11 +18,9 @@ git clone https://github.com/khrigo/monty-hall.git
 require_once 'MontyHall.php';
 ```
 
-### Use the MontyHall Simulation
+### Use the Monty Hall Simulation
 
 ```
-<?php
 $montyhall = new MontyHall();
 $montyhall->setDoors(3)->play(10000)->getResults();
-?>
 ```
