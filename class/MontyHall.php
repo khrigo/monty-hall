@@ -47,6 +47,7 @@ class MontyHall {
     {
         do      $result = $this->randomDoor();
         while   ($result == $number1 or $result == $number2);
+        return  $result;
     }
 
 }
