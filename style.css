@@ -18,14 +18,10 @@ a, a:hover, a:visited {
   right: 50px;
   padding-bottom: 50px;
 }
-@media (max-width: 600px) {
-  #content h1, #content h2 {
-	font: 20px "Helvetica Neue", Helvetica, Arial, sans-serif;
-	margin: 0;
-}
+
 }
 #content h1, #content h2 {
-	font: 100 60px "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font: 70 60px "Helvetica Neue", Helvetica, Arial, sans-serif;
 	margin: 0;
 }
 
