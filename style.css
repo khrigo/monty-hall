@@ -5,7 +5,10 @@ body {
   min-height: 500px;
   margin: 0;
 }
-
+#content h1, #content h2 {
+  font: 100 51px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: 0;
+}
 a, a:hover, a:visited {
   text-decoration: none;
   color: #08C;
