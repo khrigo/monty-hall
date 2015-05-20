@@ -1,6 +1,6 @@
 body {
   color: #555;
-  font: 200 20px "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font: 100 20px "Helvetica Neue", Helvetica, Arial, sans-serif;
   line-height: 1.5em;
   min-height: 500px;
   margin: 0;
@@ -19,10 +19,6 @@ a, a:hover, a:visited {
   padding-bottom: 50px;
 }
 
-}
-#content h1, #content h2 {
-	font: 70 60px "Helvetica Neue", Helvetica, Arial, sans-serif;
-	margin: 0;
 }
 
 #social {
