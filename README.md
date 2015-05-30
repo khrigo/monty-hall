@@ -25,7 +25,7 @@ $montyhall = new MontyHall();
 $montyhall->setDoors(3)->play(10000)->getResults();
 ```
 ## Licensing
-[The MIT License (MIT)](https://github.com/khrigo/TrueOrFalseColor/blob/master/LICENSE)
+[The MIT License (MIT)](https://github.com/khrigo/monty-hall/blob/master/LICENSE)
 
 Copyright (c) 2015 Igor Khripchenko
 
