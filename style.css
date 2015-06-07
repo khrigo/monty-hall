@@ -5,10 +5,12 @@ body {
   min-height: 500px;
   margin: 0;
 }
+
 #content h1, #content h2 {
   font: 100 51px "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 0;
 }
+
 a, a:hover, a:visited {
   text-decoration: none;
   color: #08C;
@@ -20,8 +22,6 @@ a, a:hover, a:visited {
   left: 50px;
   right: 50px;
   padding-bottom: 50px;
-}
-
 }
 
 #social {
@@ -41,13 +41,11 @@ a, a:hover, a:visited {
   background-position: center left;
   opacity: 0.7;
   filter:Alpha(opacity=0.7); 
-  
   transition: 100ms ease-in all;
   -webkit-transition: 100ms ease-in all;
   -o-transition: 100ms ease-in all;
   -moz-transition: 100ms ease-in all;
 }
-
 
 #social li a:hover {
   margin-left: 5px;
@@ -58,6 +56,7 @@ a, a:hover, a:visited {
 #twitter {
   background-image: url("http://i.imgur.com/M4o3P5E.png");
 }
+
 #github {
   background-image: url("http://i.imgur.com/XBiklbw.png");
 }
