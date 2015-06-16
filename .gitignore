@@ -1,6 +1,1 @@
-*/.idea/*
-.idea/*
-
-# OS X #
-*/.DS_Store/*
-.DS_Store/*
+.DS_Store
